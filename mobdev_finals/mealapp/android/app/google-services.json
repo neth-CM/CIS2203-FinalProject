@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "645024717879",
+    "project_id": "cis2203-final-project",
+    "storage_bucket": "cis2203-final-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645024717879:android:4b722fe4ce62a16d7a33b2",
+        "android_client_info": {
+          "package_name": "com.example.mealapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645024717879-qabh7nb3upm58mlbr8tcpska75b8o7mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mealapp",
+            "certificate_hash": "714bc27cec44fbda5200a58dacea42845679cce8"
+          }
+        },
+        {
+          "client_id": "645024717879-ps1n7sj3jkagmi95m82cfht997cum58p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMf-IQyG0v2PLw-UeZtXnfxreIXt1b0_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645024717879-dr14ncjlndk5qln1u58vlfvut91drof2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645024717879-k9afq9arqje34f32bulis2re58coe8uk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mealapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
